@@ -2,3 +2,4 @@
 BAN422 V20 Visualization in R
 (https://www.nhh.no/en/courses/visualization-in-r/)
 
+Completed
