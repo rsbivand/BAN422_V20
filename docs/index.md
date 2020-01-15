@@ -12,3 +12,5 @@ theme: united
 ### Tuesday [workshop document](https://rsbivand.github.io/BAN422_V20/ban422_v20_tues.html)
 
 ### Wednesday [workshop document](https://rsbivand.github.io/BAN422_V20/ban422_v20_wed.html)
+
+### Shiny [example](https://github.com/rsbivand/BAN422_V20/raw/master/shiny.zip)
